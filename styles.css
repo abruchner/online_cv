@@ -1,0 +1,274 @@
+a {
+  color: #e7dfd5;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  color: white
+}
+
+body {
+  color: #40514E;
+  background-color: yellow;
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #e7dfd5;
+  font-size: 90px;
+  font-family: 'Sacramento', cursive;
+  line-height: 2;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  color: #e7dfd5;
+  font-size: 2.5rem;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: normal;
+  padding-bottom: 30px
+}
+
+h3 {
+  color: #204051;
+  font-family: 'Montserrat', sans-serif;
+}
+
+hr {
+  border: dotted #e7dfd5 6px;
+  border-bottom: none;
+  width: 4%;
+  margine: 100px auto;
+}
+
+li {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+div {
+  background-color: #84a9ac;
+}
+
+ul {
+  line-height: 40px;
+}
+
+p {
+  line-height: 3;
+}
+
+.contact-message {
+  width: 40%
+  margin: 40px auto 60px;
+}
+
+.copyright {
+  color: white;
+  font-size: 0.75rem;
+  padding: 20px 0
+}
+
+.top-container {
+  background-color: #84a9ac;
+  position: relative;
+  padding-top: 100px
+}
+
+.middle-container {
+  padding-top: 70px 0;
+}
+
+.bottom-container {
+  background-color: #3b6978;
+  padding: 30px 0 30px;
+
+}
+
+.top-cloud {
+  position: absolute;
+  right: 100px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.Antje-pic {
+  padding-top: 100px;
+  padding-right: 300px;
+  height: 300px;
+  }
+
+.africa-pic_r {
+  float: right;
+  height: 50px
+  }
+
+.africa-pic_l {
+  float: left;
+  height: 50px
+  }
+
+.business-man-pic{
+    float: right;
+    height: 150px
+    }
+
+.civil-pic {
+  float: left;
+  padding-right: 100px;
+  height: 200px
+        }
+
+
+.church-pic {
+    float: left;
+    height: 150px
+    }
+
+.computer-pic {
+    float: left;
+    padding-right: 100px;
+    height: 200px
+    }
+
+.city-pic {
+    float: left;
+    padding-left: 10px;
+    padding-right: 5px;
+    padding-top: 10px;
+    height: 100px
+        }
+.engineer-pic {
+    float: right;
+    height: 150px
+    }
+
+.email-pic {
+    height: 100px
+    }
+
+.factory_1-pic {
+    float: left;
+    height: 100px
+        }
+
+.factory_2-pic {
+    float: left;
+    height: 250px
+                }
+
+.fm-pic {
+    float: left;
+    height: 150px
+        }
+
+.germany-pic_r {
+  float: right;
+  height: 50px
+          }
+
+.germany-pic_l {
+  float: left;
+  height: 50px
+          }
+
+.hobby-pic_l {
+  float: left;
+  height: 100px
+              }
+
+.hobby-pic_r {
+  float: right;
+  height: 70px
+              }
+
+.hospital-pic {
+    float: right;
+    height: 200px
+        }
+
+
+.intro {
+  margin: auto;
+  width: 40%;
+  padding-bottom: 60px;
+}
+
+.office_1-pic {
+    float: right;
+    height: 180px
+        }
+
+
+.office_2-pic {
+    float: left;
+    padding-left: 10px;
+    height: 80px
+        }
+
+.project-pic {
+    float: right;
+    padding-right: 150px;
+    height: 250px
+    }
+
+
+.Science-pic {
+
+  background-color: none;
+  height: 200 px
+  }
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  text-align: left;
+  width: 50%
+  }
+
+.skill-row_1 {
+  margin: 100px auto 100px auto;
+  padding-left: 200px;
+  text-align: left;
+  width: 50%
+  }
+
+.skill-row_small {
+  margin: 100px auto 100px auto;
+  text-align: left;
+  width: 50%
+  }
+
+.BUTTON_QPR {
+     background: #7DB5D3;
+     background-image: -webkit-linear-gradient(top, #7DB5D3, #5B81C0);
+     background-image: -moz-linear-gradient(top, #7DB5D3, #5B81C0);
+     background-image: -ms-linear-gradient(top, #7DB5D3, #5B81C0);
+     background-image: -o-linear-gradient(top, #7DB5D3, #5B81C0);
+     background-image: linear-gradient(to bottom, #7DB5D3, #5B81C0);
+     -webkit-border-radius: 20px;
+     -moz-border-radius: 20px;
+     border-radius: 20px;
+     color: #FFFFFF;
+     font-family: "Montserrat", verdana;
+     font-size: 40px;
+     font-weight: 200;
+     padding: 40px;
+     box-shadow: 1px 1px 20px 0px #000000;
+     -webkit-box-shadow: 1px 1px 20px 0px #000000;
+     -moz-box-shadow: 1px 1px 20px 0px #000000;
+     text-shadow: 1px 1px 20px #000000;
+     border: solid #337FED 1px;
+     text-decoration: none;
+     display: inline-block;
+     cursor: pointer;
+     text-align: center;
+  }
