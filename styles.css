@@ -5,6 +5,12 @@ a {
   text-decoration: none;
 }
 
+.link {
+    color: #e7dfd5;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 0.75rem;
+}
+
 a:hover {
   color: white
 }
@@ -51,7 +57,7 @@ li {
 }
 
 div {
-  background-color: #84a9ac;
+  /* background-color: #84a9ac; */
 }
 
 ul {
@@ -80,8 +86,11 @@ p {
 }
 
 .middle-container {
+  background-color: #84a9ac;
+  position: relative;
   padding-top: 70px 0;
 }
+
 
 .bottom-container {
   background-color: #3b6978;
@@ -95,11 +104,11 @@ p {
   top: 40px;
 }
 
-.bottom-cloud {
+/* .bottom-cloud {
   position: absolute;
   left: 250px;
   bottom: 300px;
-}
+} */
 
 .Antje-pic {
   padding-top: 100px;
