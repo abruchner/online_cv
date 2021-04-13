@@ -165,6 +165,11 @@ p {
     height: 100px
     }
 
+.fact-pic {
+    float: left;
+    height: 100px
+        }
+
 .factory_1-pic {
     float: left;
     height: 100px
@@ -224,6 +229,11 @@ p {
     height: 80px
         }
 
+.prom-pic {
+    float: right;
+    height: 100px
+        }
+
 .project-pic {
     float: right;
     padding-right: 150px;
@@ -236,6 +246,11 @@ p {
   background-color: none;
   height: 200 px
   }
+
+.swiss-pic {
+    float: left;
+    height: 50px
+        }
 
 .skill-row {
   margin: 100px auto 100px auto;
