@@ -126,6 +126,11 @@ p {
   height: 50px
   }
 
+.areas-pic_l {
+  float: right;
+  height: 100px
+  }
+
 .business-man-pic{
     float: right;
     height: 150px
